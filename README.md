@@ -1,5 +1,7 @@
 # Summarizer
 
+![Your App Logo](assets/logo.png)
+
 Summarizer is a versatile web application designed for creating summaries from various formats, including PDF documents, research papers, and YouTube videos using streamlit. Whether the content is in Marathi, Hindi, or English, Summarizer intelligently processes the information to generate concise and meaningful summaries.
 
 ## Getting Started
