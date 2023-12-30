@@ -1,5 +1,9 @@
 # Summarizer
 
+<p align="center">
+  <img src="./assets/logo.png" alt="Your App Logo" width="150"/>
+</p>
+
 Summarizer is a versatile web application designed for creating summaries from various formats, including PDF documents, research papers, and YouTube videos using streamlit. Whether the content is in Marathi, Hindi, or English, Summarizer intelligently processes the information to generate concise and meaningful summaries.
 
 ## Getting Started
@@ -24,27 +28,22 @@ Summarizer is the go-to tool for anyone looking to extract the essence of inform
    git clone https://github.com/Mayurgaike/Summarizer.git
    cd Summarizer
 
-   
-
 2. Set up a virtual environment:
 
    bash
    python -m venv venv
    source venv/bin/activate
    On Windows, use `venv\Scripts\activate`
-   
 
 3. Install dependencies:
 
    bash
    pip install -r requirements.txt
-   
 
 ### Usage
 
 bash
 streamlit run app.py
-
 
 Open your web browser and visit http://localhost:8501 to access the Summarizer interface.
 
