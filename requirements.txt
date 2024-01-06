@@ -1,3 +1,5 @@
 txtai
 streamlit
 PyPDF2
+pytube
+youtube-transcript-api
